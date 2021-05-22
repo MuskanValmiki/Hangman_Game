@@ -23,4 +23,4 @@ def choose_word():
     secret_word = secret_word.lower()
 
     return secret_word
-print(choose_word())
+# print(choose_word())
